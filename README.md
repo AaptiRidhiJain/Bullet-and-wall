@@ -1,2 +1,2 @@
-# Bullet-and-wall
-Detecting the damage!!!...
+# p5.play-boilerplate
+Boiler plate for p5.play
